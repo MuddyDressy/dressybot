@@ -32,19 +32,17 @@ i see another bot responds to that command, install the extension "dressybotvsot
 
 **!startmessage:**
 
-im dressybot, the only bot thats not a bot... wait what... yeah this is just muddydressy with notepad on his other monitor manually acting like a bot, you can do !help for commands (btw i can send normal chat messages)
+im dressybot, the only bot thats not a bot... wait what... yeah this is just muddydressy with notepad on his other monitor manually acting like a bot, you can do !help for commands (btw i can send normal chat messages if i want)
 
 
 
 **start message:**
 
-IM BAAACK, its dressybot, the only bot thats not a bot... wait what... yeah this is just muddydressy with notepad on his other monitor manually acting like a bot, you can do !help for commands (btw i can send normal chat messages)
+IM BAAACK, its dressybot, the only bot thats not a bot... wait what... yeah this is just muddydressy with notepad on his other monitor manually acting like a bot, you can do !help for commands (btw i can send normal chat messages if i wnat)
 
 or
 
-i now will become dressybot, the only bot thats not a bot... wait what... yeah this is just muddydressy with notepad on his other monitor manually acting like a bot, you can do !help for commands (btw i can send normal chat messages)
-
-
+i now will become dressybot, the only bot thats not a bot... wait what... yeah this is just muddydressy with notepad on his other monitor manually acting like a bot, you can do !help for commands (btw i can send normal chat messages if i want)
 
 
 
@@ -68,7 +66,7 @@ commands are: !cool \[Username], !L \[Username], !stinky \[Username], !messagepe
 
 **!help3 (send after !help2 message is done):**
 
-...!helpgoober (extension "goober" required), !helptime (extension "goober" required), !helplevelreq (extension "goober" required), **!removedressybotextension \[id]**
+...!helpgoober (extension "goober" required), !helptime (extension "goober" required), !helplevelreq (extension "goober" required), !removedressybotextension \[id], !helpmoney (extension "money" required)
 
 
 
@@ -212,7 +210,7 @@ couldn't find that extension
 
 **!dressybotextensionhelp:**
 
-here is the ids of dressybot extensions: levelreqbot, goober, timebased, dreamcommands
+here is the ids of dressybot extensions: levelreqbot, goober, timebased, dreamcommands,
 
 
 
@@ -264,7 +262,7 @@ Goober said: \[response to \[String]]
 
 **!update:**
 
-dressybot is currently v1.4 (starting from this !update being added), v1.0 info: initial release, v1.1 info: added new command, v1.2 info: changed name of a command and added new extension, v1.3 info: added new extension, v1.4 info: added new command, v1.5 info: new messages for things happening, new extension and new command
+dressybot is currently v1.4 (starting from this !update being added), v1.0 info: initial release, v1.1 info: added new command, v1.2 info: changed name of a command and added new extension, v1.3 info: added new extension, v1.4 info: added new command, v1.5 info: new messages for things happening, new extension and new command, v1.6 info: new extension and new command, v1.7 info: added really cool extension
 
 
 
@@ -309,6 +307,50 @@ you need the "\[id]" extension to use this command
 ...
 
 GO
+
+
+
+**!helpmoney (extension "money" required):**
+
+the money commands are: !givemoney \[integer] \[Username], !money \[Username], !job, !work, !moneynameset \[String] (mod only), !createbankaccount \[Username]
+
+
+
+**!givemoney \[integer] \[Username] (extension "money" required):**
+
+\[integer] \[moneyname] has been given to \[Username]
+
+or
+
+\[Username] needs a bank account to use this command
+
+
+
+**!money \[Username] (extension "money" required):**
+
+\[Username] has \[money] \[moneyname]
+
+
+
+**!job (extension "money" required):**
+
+\[Username] has applied for a j- j- j- JOB OhMyDog
+
+
+
+**!work (extension "money" required):**
+
+you need a job to use this command
+
+or
+
+\[Username] made {1-25} \[moneyname] at work! OhMyDog
+
+
+
+**no bank account:**
+
+you need a bank account to use this command
 
 
 
