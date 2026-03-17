@@ -1,5 +1,4 @@
 ---
-layout: default
 title: DressyBot Commands
 ---
 ### DRESSYBOT:
