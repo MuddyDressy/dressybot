@@ -1,6 +1,5 @@
 ---
-layout: default
-title: DressyBot Commands
+title: Money
 ---
 # Money:
 
