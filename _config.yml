@@ -1,0 +1,13 @@
+# _config.yml for DressyBot site
+
+# Pick a simple theme so Markdown renders properly
+theme: minima
+
+# Optional: site title that appears in the browser tab
+title: DressyBot Commands
+
+# Optional: description (used by some themes and search engines)
+description: A fun guide to all DressyBot commands and extensions
+
+# Optional: make links in Markdown open in a new tab
+markdown: kramdown
